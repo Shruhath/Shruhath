@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=E8651A&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+%7C+Builder;Founder+%40+Ushodaya+Networks;B.Tech+CSE+%40+Amrita+Vishwa+Vidyapeetham" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=E8651A&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+%7C+Builder;Freelancing+%40+Ushodaya+Networks;B.Tech+CSE+%40+Amrita+Vishwa+Vidyapeetham" alt="Typing SVG" />
 
 </div>
 
@@ -42,7 +42,7 @@
 ```js
 const shruhath = {
   role    : "Full Stack Developer",
-  company : "Ushodaya Networks (Founder)",
+  company : "Ushodaya Networks (Freelancing)",
   uni     : "Amrita Vishwa Vidyapeetham '28",
   stack   : ["React", "Node.js", "PostgreSQL"],
   ships   : "production apps, not prototypes",
