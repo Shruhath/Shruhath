@@ -4,14 +4,14 @@ Software engineer working across backend systems, distributed computing, and app
 
 [Website](https://shruhathreddy.in) · [LinkedIn](https://www.linkedin.com/in/shruhath-reddy/) · [Email](mailto:shruhathkreddy@gmail.com)
 
-I am a Computer Science undergraduate at Amrita Vishwa Vidyapeetham, an SDE intern at Museigen Tech, and the Tech Head at iDEA. I enjoy taking technically difficult ideas and turning them into reliable software that people can actually use.
+I am a Computer Science undergraduate at Amrita Vishwa Vidyapeetham and an SDE intern at Museigen Tech. I enjoy taking technically difficult ideas and turning them into reliable software that people can actually use.
 
-My work has supported a national techfest with more than 10,000 participants and a university platform used by over 1,500 students.
+Most of my work involves backend architecture, internal platforms, automation, and product development from planning through deployment.
 
 ## Currently
 
 - Integrating LLM pipelines with production software at Museigen Tech.
-- Building NodeShare, a peer-to-peer distributed compute tool written in Go.
+- Building and maintaining university systems for events, attendance, and student organizations.
 - Leading technical development for iDEA, Amrita's innovation and entrepreneurship platform.
 - Delivering end-to-end web products through Ushodaya Networks.
 
@@ -19,7 +19,6 @@ My work has supported a national techfest with more than 10,000 participants and
 
 - **NodeShare** — A distributed compute tool that connects machines over encrypted libp2p tunnels, transfers code, and streams Docker task output in real time. It supports NAT traversal through Circuit Relay v2, DCUtR hole punching, and tunnel fallback.
 - **[DutyON](https://github.com/Shruhath/on-duty-amrita)** — A role-based leave and attendance platform for educational institutions, with NFC attendance, real-time data, and operational exports.
-- **[Tamil NLP Glossary](https://github.com/Shruhath/slm-glossary-tamil)** — A local NLP workflow that uses a 615M-parameter language model to translate an English technical glossary into Tamil.
 - **Screen9** — A hyperlocal journalism platform with a CMS for citizen reporters to publish community news.
 - **[Vote CastED](https://github.com/Shruhath/Vote-CastED)** — A university election platform with verified voters, secure authentication, live results, and administrative controls.
 
@@ -30,7 +29,7 @@ My work has supported a national techfest with more than 10,000 participants and
 - **iDEA, Amrita University** — Tech Head, 2026–present
 - **The Init Club** — Backend Developer, 2025–present
 - **The ELITE Club** — Backend Developer and Database Administrator, 2025–present
-- **Anokha Techfest** — Frontend Developer, 2025–2026
+- **Anokha Techfest** — Frontend Developer, 2025
 
 ## Technologies
 
