@@ -1,133 +1,128 @@
 <div align="center">
+  <img src="./assets/banner.svg" alt="Shruhath Reddy - Software Engineer and Systems Builder" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8651A&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+  <br />
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-shruhathreddy.in-F97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shruhathreddy.in)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-111318?style=for-the-badge&logo=linkedin&logoColor=F97316)](https://www.linkedin.com/in/shruhath-reddy/)
+  [![Email](https://img.shields.io/badge/Email-Say_hello-111318?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:shruhathkreddy@gmail.com)
 </div>
 
-<div align="center">
+## Hey, I'm Shruhath 👋
 
-```
-░██████╗██╗░░██╗██████╗░██╗░░░██╗██╗░░██╗░█████╗░████████╗██╗░░██╗
-██╔════╝██║░░██║██╔══██╗██║░░░██║██║░░██║██╔══██╗╚══██╔══╝██║░░██║
-╚█████╗░███████║██████╔╝██║░░░██║███████║███████║░░░██║░░░███████║
-░╚═══██╗██╔══██║██╔══██╗██║░░░██║██╔══██║██╔══██║░░░██║░░░██╔══██║
-██████╔╝██║░░██║██║░░██║╚██████╔╝██║░░██║██║░░██║░░░██║░░░██║░░██║
-╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝
-```
+I build software where **systems engineering, AI, and product thinking** meet. My favorite work starts as a difficult technical problem and ends as something real people can rely on - from encrypted peer-to-peer compute to university platforms used at scale.
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=E8651A&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+%7C+Builder;Freelancing+%40+Ushodaya+Networks;B.Tech+CSE+%40+Amrita+Vishwa+Vidyapeetham" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/shruhathreddy.in-E8651A?style=for-the-badge&logo=safari&logoColor=black)](https://shruhathreddy.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=E8651A)](https://linkedin.com/in/shruhath-reddy)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=E8651A)](mailto:shruhathkreddy@gmail.com)
-
-</div>
-
----
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruhath&layout=compact&theme=transparent&bg_color=0d0d0d&title_color=E8651A&text_color=ffffff&border_color=E8651A&hide_border=false&langs_count=6&card_width=280" />
-
-### about me
-
-```js
-const shruhath = {
-  role    : "Full Stack Developer",
-  company : "Ushodaya Networks (Freelancing)",
-  uni     : "Amrita Vishwa Vidyapeetham '28",
-  stack   : ["React", "Node.js", "PostgreSQL"],
-  ships   : "production apps, not prototypes",
-  currently: "open to internships",
-};
+```go
+type Shruhath struct {
+    Building   []string // distributed systems, AI pipelines, production web apps
+    WorkingAt  string   // Museigen Tech - SDE Intern
+    LeadingAt  string   // iDEA, Amrita - Tech Head
+    LearningAt string   // Amrita Vishwa Vidyapeetham - CSE '28
+    Principle  string   // make it useful, make it reliable, then make it elegant
+}
 ```
 
-<br clear="right"/>
+### Right now
 
----
+- 🧠 Integrating **LLM pipelines** with production software at **Museigen Tech**.
+- 🌐 Building **NodeShare**, a Go-based distributed compute tool over encrypted libp2p tunnels.
+- 🚀 Leading the technical roadmap and codebase for **iDEA**, Amrita's innovation and entrepreneurship platform.
+- 🛠️ Delivering end-to-end products for enterprise clients through **Ushodaya Networks**.
 
-### tech
+## Proof of work
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=E8651A)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=E8651A)
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=E8651A)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=E8651A)
-![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=E8651A)
-![Socket.io](https://img.shields.io/badge/Socket.io-0d0d0d?style=flat-square&logo=socketdotio&logoColor=E8651A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=E8651A)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=E8651A)
-![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=E8651A)
-![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=E8651A)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=E8651A)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=E8651A)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=E8651A)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=E8651A)
+| **10,000+** | **1,500+** | **4,000+ / day** | **Multi-client** |
+|:---:|:---:|:---:|:---:|
+| Techfest participants served | University platform users | Database operations handled | Production apps delivered |
 
 </div>
 
----
+## Selected builds
 
-### shipped
-
-| project | what it does | stack |
+| Project | Engineering story | Core stack |
 |---|---|---|
-| **[Screen9](https://github.com/Shruhath)** | hyperlocal journalism platform with CMS for citizen reporters | React · Node.js · Supabase |
-| **[On Duty](https://github.com/Shruhath)** | attendance system deployed live for Amrita CSE dept · 500+ users | React · Firebase · Node.js |
-| **[Vote Casted](https://github.com/Shruhath)** | secure ballot system with university OAuth + encryption | React · Firebase · OAuth |
-| **[SkillXchange](https://github.com/Shruhath)** | P2P skill-matching with real-time chat · Hack101 | React · Node.js · Socket.io |
-| **[CampWild](https://github.com/Shruhath)** | adventure platform with AI voice assistant · top 1% voice sites | React · Web Speech API |
-| **[Latros MedAI](https://github.com/Shruhath)** | AI medical assistant with ML symptom analysis | React · TensorFlow.js |
-| **[System Override](https://github.com/Shruhath)** | cyberpunk terminal simulator · Special Mention @ DevXCode | JS · CSS3 |
+| **NodeShare** | P2P distributed compute across encrypted tunnels, with live Docker output, NAT traversal, relay, and hole punching. Built with a small team at iDEA. | Go · go-libp2p · Protobuf · Docker · QUIC |
+| **[DutyON](https://github.com/Shruhath/on-duty-amrita)** | Role-based university leave and attendance workflows with NFC support, real-time data, and operational exports. | Next.js · TypeScript · Firebase · NFC |
+| **[Tamil NLP Glossary](https://github.com/Shruhath/slm-glossary-tamil)** | A 615M-parameter language model translating an English NLP glossary into Tamil entirely on local hardware. | Python · NLLB-200 · PyTorch · ReportLab |
+| **Screen9** | Hyperlocal journalism platform and CMS that lets citizen reporters publish community news. | React · Node.js · Supabase · CMS |
+| **[Vote CastED](https://github.com/Shruhath/Vote-CastED)** | Secure university election management with verified voters, live results, and an admin control plane. | React · TypeScript · Firebase · OAuth |
 
----
+<div align="center">
+  <a href="https://github.com/Shruhath?tab=repositories"><strong>Explore all repositories →</strong></a>
+</div>
 
-### numbers
+## Engineering toolkit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shruhath&show_icons=true&theme=transparent&bg_color=0d0d0d&title_color=E8651A&text_color=ffffff&icon_color=E8651A&border_color=E8651A&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shruhath&theme=transparent&background=0d0d0d&ring=E8651A&fire=E8651A&currStreakLabel=E8651A&sideLabels=ffffff&sideNums=ffffff&border=E8651A&dates=888888" height="165"/>
+<p><strong>Languages</strong></p>
+
+![Go](https://img.shields.io/badge/Go-111318?style=flat-square&logo=go&logoColor=F97316)
+![TypeScript](https://img.shields.io/badge/TypeScript-111318?style=flat-square&logo=typescript&logoColor=F97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-111318?style=flat-square&logo=javascript&logoColor=F97316)
+![Python](https://img.shields.io/badge/Python-111318?style=flat-square&logo=python&logoColor=F97316)
+![Java](https://img.shields.io/badge/Java-111318?style=flat-square&logo=openjdk&logoColor=F97316)
+![SQL](https://img.shields.io/badge/SQL-111318?style=flat-square&logo=postgresql&logoColor=F97316)
+
+<p><strong>Backend &amp; systems</strong></p>
+
+![Node.js](https://img.shields.io/badge/Node.js-111318?style=flat-square&logo=nodedotjs&logoColor=F97316)
+![Express](https://img.shields.io/badge/Express-111318?style=flat-square&logo=express&logoColor=F97316)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111318?style=flat-square&logo=postgresql&logoColor=F97316)
+![MongoDB](https://img.shields.io/badge/MongoDB-111318?style=flat-square&logo=mongodb&logoColor=F97316)
+![Docker](https://img.shields.io/badge/Docker-111318?style=flat-square&logo=docker&logoColor=F97316)
+![REST](https://img.shields.io/badge/REST_APIs-111318?style=flat-square&logo=fastapi&logoColor=F97316)
+
+<p><strong>Frontend, cloud &amp; quality</strong></p>
+
+![React](https://img.shields.io/badge/React-111318?style=flat-square&logo=react&logoColor=F97316)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111318?style=flat-square&logo=tailwindcss&logoColor=F97316)
+![Supabase](https://img.shields.io/badge/Supabase-111318?style=flat-square&logo=supabase&logoColor=F97316)
+![Firebase](https://img.shields.io/badge/Firebase-111318?style=flat-square&logo=firebase&logoColor=F97316)
+![Jest](https://img.shields.io/badge/Jest-111318?style=flat-square&logo=jest&logoColor=F97316)
+![Vitest](https://img.shields.io/badge/Vitest-111318?style=flat-square&logo=vitest&logoColor=F97316)
 
 </div>
 
-<div align="center">
+## Journey so far
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shruhath&bg_color=0d0d0d&color=E8651A&line=E8651A&point=ffffff&area=true&area_color=E8651A&hide_border=false&border_color=E8651A&custom_title=contribution+graph" width="95%"/>
-
-</div>
-
----
-
-### highlights
-
+```text
+2026 - now   SDE Intern, Museigen Tech          software x AI engineering
+2026 - now   Tech Head, iDEA                    technical leadership
+2025 - now   Founder, Ushodaya Networks         client products, end to end
+2025 - now   Backend & database roles           Init Club / ELITE Club
+2025 - 2026  Frontend Developer, Anokha         interfaces for 10K+ participants
+2024 - 2028  B.Tech CSE, Amrita                 engineering the fundamentals
 ```
-◈  Ushodaya Networks  ───  freelancing & shipping production apps to enterprise clients 
-◈  Anokha Techfest  ─────  built 3 internal apps live at National techfest · 10,000+ users
-◈  Amrita CSE Dept  ─────  ODS attendance system deployed for real events · 500+ students
-◈  DevXCode  ────────────  Special Mention · System Override hackathon project
-```
 
----
+<details>
+<summary><strong>A few wins I'm proud of</strong></summary>
+
+<br />
+
+- Received a **Special Mention at DevX Hackathon** for *System Override*.
+- Built Amrita's university events system, used by **1,500+ students** and handling **4,000+ daily database reads and writes**.
+- Helped ship the frontend for **Anokha**, serving **10,000+ participants** across India.
+- Grew from developer to **Tech Head at iDEA**, owning technical development and codebase quality.
+
+</details>
+
+## GitHub pulse
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shruhath&style=flat-square&color=E8651A&label=profile+views" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shruhath&theme=github_dark" width="96%" alt="Shruhath's GitHub profile summary" />
 </div>
 
+## Let's build something that matters
+
+I'm most interested in **backend systems, developer infrastructure, distributed computing, and applied AI**. If you're working on a hard problem with real users, I'd love to hear about it.
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8651A&height=80&section=footer&text=&fontSize=0" width="100%"/>
+[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-shruhathkreddy%40gmail.com-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruhathkreddy@gmail.com)
+
+<sub>Built with curiosity, caffeine, and a healthy dislike of "works on my machine."</sub>
 
 </div>
