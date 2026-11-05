@@ -1,44 +1,35 @@
 # Shruhath Reddy
 
-Software engineer working across backend systems, distributed computing, and applied AI.
+Backend engineer and CS undergrad at Amrita Vishwa Vidyapeetham. I'm an SDE intern at Museigen Tech, where I connect LLM pipelines to production software.
 
 [Website](https://shruhathreddy.in) · [LinkedIn](https://www.linkedin.com/in/shruhath-reddy/) · [Email](mailto:shruhathkreddy@gmail.com)
 
-I am a Computer Science undergraduate at Amrita Vishwa Vidyapeetham and an SDE intern at Museigen Tech. I enjoy taking technically difficult ideas and turning them into reliable software that people can actually use.
+Most of what I build is backend: internal platforms, automation, and whole products from planning to deployment.
 
-Most of my work involves backend architecture, internal platforms, automation, and product development from planning through deployment.
+## Right now
 
-## Currently
+I'm at Museigen Tech working on the LLM side of production software. At Amrita I maintain the systems for events, attendance and student organizations, and I lead tech for iDEA, the university's innovation and entrepreneurship platform. On the side I run Ushodaya Networks, where I build web products for clients.
 
-- Integrating LLM pipelines with production software at Museigen Tech.
-- Building and maintaining university systems for events, attendance, and student organizations.
-- Leading technical development for iDEA, Amrita's innovation and entrepreneurship platform.
-- Delivering end-to-end web products through Ushodaya Networks.
+## Projects
 
-## Selected work
-
-- **NodeShare** — A distributed compute tool that connects machines over encrypted libp2p tunnels, transfers code, and streams Docker task output in real time. It supports NAT traversal through Circuit Relay v2, DCUtR hole punching, and tunnel fallback.
-- **[DutyON](https://github.com/Shruhath/on-duty-amrita)** — A role-based leave and attendance platform for educational institutions, with NFC attendance, real-time data, and operational exports.
-- **Screen9** — A hyperlocal journalism platform with a CMS for citizen reporters to publish community news.
-- **[Vote CastED](https://github.com/Shruhath/Vote-CastED)** — A university election platform with verified voters, secure authentication, live results, and administrative controls.
+- NodeShare: connects machines over encrypted libp2p tunnels, sends code to them, and streams Docker task output back live. It gets through NAT with Circuit Relay v2 and DCUtR hole punching, and falls back to tunnels when that fails.
+- [DutyON](https://github.com/Shruhath/on-duty-amrita): leave and attendance platform for colleges. Role-based access, NFC attendance, live data, exports for admins.
+- Screen9: hyperlocal news platform with a CMS where citizen reporters publish community stories.
+- [Vote CastED](https://github.com/Shruhath/Vote-CastED): university election platform with verified voters, live results and admin controls.
 
 ## Experience
 
-- **Museigen Tech** — SDE Intern, 2026–present
-- **Ushodaya Networks** — Founder and Freelance Web Developer, 2025–present
-- **iDEA, Amrita University** — Tech Head, 2026–present
-- **The Init Club** — Backend Developer, 2025–present
-- **The ELITE Club** — Backend Developer and Database Administrator, 2025–present
-- **Anokha Techfest** — Frontend Developer, 2025
+- Museigen Tech, SDE Intern, 2026 to present
+- Ushodaya Networks, founder and freelance web developer, 2025 to present
+- iDEA, Amrita University, Tech Head, 2026 to present
+- The Init Club, Backend Developer, 2025 to present
+- The ELITE Club, Backend Developer and DBA, 2025 to present
+- Anokha Techfest, Frontend Developer, 2025
 
-## Technologies
+## Stack
 
-- **Languages:** Go, TypeScript, JavaScript, Python, Java, SQL
-- **Backend:** Node.js, Express, Gin, PostgreSQL, SQLite, MongoDB
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Infrastructure:** Docker, Supabase, Firebase, Git
-- **Engineering:** REST APIs, OAuth, testing, system architecture
+I write mostly TypeScript and Go, with Python, Java and SQL when the job needs them. Backends are Node/Express or Gin on PostgreSQL, SQLite or MongoDB. Frontends are React and Next.js with Tailwind. I deploy with Docker and use Supabase and Firebase for hosted pieces. Day to day that means REST APIs, OAuth, tests and a lot of Git.
 
 ## Contact
 
-I am interested in backend engineering, developer infrastructure, distributed systems, and applied AI. If you are working on something thoughtful in those areas, feel free to [get in touch](mailto:shruhathkreddy@gmail.com).
+I'm interested in backend work, developer infrastructure, distributed systems and applied AI. If you're building in those areas, [email me](mailto:shruhathkreddy@gmail.com).
