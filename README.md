@@ -30,7 +30,7 @@ I'm at Museigen Tech working on the LLM side of production software. At Amrita I
 
 I write mostly TypeScript and Go, with Python, Java and SQL when the job needs them. Backends are Node/Express or Gin on PostgreSQL, SQLite or MongoDB. Frontends are React and Next.js with Tailwind. I deploy with Docker and use Supabase and Firebase for hosted pieces. Day to day that means REST APIs, OAuth, tests and a lot of Git.
 
-## Activity
+## Activity (Percentile)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.svg">
